@@ -1,0 +1,1 @@
+Bu hafta, Dijkstra algoritmasını öğrenmeye odaklandık. Grafik yapıları ve en kısa yol bulma algoritmaları üzerine çalışmalar yaptık. Ardından, bu konuları kodlama yoluyla uygulamalı olarak inceledik.
