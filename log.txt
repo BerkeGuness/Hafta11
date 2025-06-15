@@ -1,5 +1,10 @@
-commit 5a7fd898d64ae1086c0f2235bebd83b10001256b (HEAD -> main, origin/main)
-Author: BerkeGuness <berkegunes4@gmail.com>
-Date:   Sat Jun 7 22:11:31 2025 +0300
+commit 175ebf0688eea106e0536bc9c7aa12bf557d9336 (HEAD -> main, origin/main, origin/HEAD)
+Author: BerkeGunes <berkegunes4@gmail.com>
+Date:   Sat Jun 14 20:25:34 2025 +0300
 
-    hafta 10
+git log ekledim
+
+commit 770aeb6947fc7aa3d041b4844d1737fa9c074d0e
+Author: BerkeGunes <berkegunes4@gmail.com
+
+Hafta11
